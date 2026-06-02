@@ -1,0 +1,8 @@
+{
+  "ApiKey": "YOUR_FOXESS_API_KEY",
+  "DeviceSN": "YOUR_INVERTER_SERIAL_NUMBER",
+  "BaseUrl": "https://www.foxesscloud.com",
+  "LogPath": "C:\\Path\\To\\Your\\foxess-daypush.log",
+  "NtfyUrl": "https://ntfy.sh/YourUniqueTopicName",
+  "NtfyTitle": "FoxESS Battery Update"
+}
