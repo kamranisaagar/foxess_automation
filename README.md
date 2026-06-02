@@ -181,7 +181,7 @@ Update these values.
 ### Location
 
 ```powershell
-Location = @{ Name="Canberra, Australia"; Latitude=-35.2809; Longitude=149.1300; Timezone="Australia/Sydney"; WindowsTimezoneId="AUS Eastern Standard Time" }
+Location = @{ Name="Sydney, Australia"; Latitude=-33.8688; Longitude=151.2093; Timezone="Australia/Sydney"; WindowsTimezoneId="AUS Eastern Standard Time" }
 ```
 
 Change:
